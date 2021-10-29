@@ -36,7 +36,7 @@ jsproxy_config({
       label: 'North America',
       lines: {
         // 主机:权重
-        'proxy.itprosec.eu.org': 1,
+        'proxy.itprosec.com': 1,
       }
     },
     // 该节点用于加载大体积的静态资源
